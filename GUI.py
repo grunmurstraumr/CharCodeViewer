@@ -44,4 +44,7 @@ class GUI:
 
 if __name__ == '__main__':
     g = GUI()
+    if len(sys.argv) > 1:
+        g.widgets['input'].insert(0, sys.argv[1])
+        g.convert()
     g.run()

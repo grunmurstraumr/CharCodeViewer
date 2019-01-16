@@ -1,7 +1,7 @@
 # CharCodeViewer
-# Document version 0.1
-# Date 2019-01-16
-# Author(s): Erik Grundström
+Document version 0.1
+Date 2019-01-16
+Author(s): Erik Grundström
 
 CharCodeViewer is a small and simple utility tool to display the numeric ASCII codes of characters.
 The Numbers are displayed in decimal, hexadecimal and binary formats.
